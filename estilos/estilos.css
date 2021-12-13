@@ -1,8 +1,10 @@
 
 .div{
-    font-size: 100px;
-    color: white;
+    font-size: 200px;
+    color: gold;
     background-color: black;
     border-color: black;
     border: 2px;
+    text-transform: uppercase;
+    text-align: center;
 }
