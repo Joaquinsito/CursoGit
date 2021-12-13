@@ -1,6 +1,8 @@
-*{
-    background-color: aquamarine;
-}
-div{
-    background-color: azure;
+
+.div{
+    font-size: 100px;
+    color: white;
+    background-color: black;
+    border-color: black;
+    border: 2px;
 }
