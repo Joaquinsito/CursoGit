@@ -13,3 +13,9 @@ a{
     color: brown;
     background-color: darkgrey;
 }
+h3{
+    text-transform: capitalize;
+    color: blueviolet;
+    background-color: azure;
+    font-size: larger;
+}
